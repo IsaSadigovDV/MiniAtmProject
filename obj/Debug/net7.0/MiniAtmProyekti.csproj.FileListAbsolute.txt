@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\bin\Debug\net7.0\MiniAtmProyekti.exe
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\bin\Debug\net7.0\MiniAtmProyekti.deps.json
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\bin\Debug\net7.0\MiniAtmProyekti.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\bin\Debug\net7.0\MiniAtmProyekti.dll
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\bin\Debug\net7.0\MiniAtmProyekti.pdb
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\obj\Debug\net7.0\MiniAtmProyekti.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\obj\Debug\net7.0\MiniAtmProyekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\obj\Debug\net7.0\MiniAtmProyekti.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\obj\Debug\net7.0\MiniAtmProyekti.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\obj\Debug\net7.0\MiniAtmProyekti.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\obj\Debug\net7.0\MiniAtmProyekti.dll
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\obj\Debug\net7.0\refint\MiniAtmProyekti.dll
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\obj\Debug\net7.0\MiniAtmProyekti.pdb
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\obj\Debug\net7.0\MiniAtmProyekti.genruntimeconfig.cache
+C:\Users\HP\source\repos\ConsoleApp1\MiniAtmProyekti\obj\Debug\net7.0\ref\MiniAtmProyekti.dll
